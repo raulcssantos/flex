@@ -1,0 +1,52 @@
+div.collumn1 {
+ display: flex;
+ flex-direction: column;
+}
+
+div.box1{
+  text-align: center;
+  width: 100vw;
+  height: 15vh;
+  background-color: aqua;
+}
+  
+div.box2{
+  text-align: center;
+  width: 100vw;
+  height: 15vh;
+  background-color: rgb(116, 0, 194);
+}
+div.box3{
+  display: flex;
+  flex-direction: row;
+
+}
+
+div.box31{
+  display: flex;
+  flex-direction: column;
+
+}
+
+div.box311{
+width: 70vw;
+height: 25vh;
+background-color: maroon;
+}
+div.box311{
+  width: 70vw;
+  height: 25vh;
+  background-color: rgb(218, 223, 149);
+  }
+div.box32{
+
+  width: 30vw;
+  height: 50vh;
+  background-color: rgb(255, 21, 138);
+}
+div.box4{
+  text-align: center;
+  width: 100vw;
+  height: 15vh;
+  background-color: rgb(41, 230, 24);
+}
